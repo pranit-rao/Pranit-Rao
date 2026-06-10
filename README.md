@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pranit Rao
 
-<!--
-**pranit-rao/Pranit-Rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Analyst | MSc Data Science for Business
 
-Here are some ideas to get you started:
+📍 United Kingdom
+📊 SQL | Python | Power BI | Tableau | Excel
+📈 Customer Analytics | Forecasting | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Data professional with 3+ years of experience delivering dashboards,
+automating reporting, and generating business insights across retail,
+finance, and sports analytics domains.
+
+## Featured Projects
+- British High Street Analytics
+- NHS AI Implementation Study
+- Customer Churn Prediction
+- Telecom Marketing Campaign Prediction
+- UEFA Champions League Database Design
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/pranit-rao/
+Email: pranit.rao18@gmail.com
