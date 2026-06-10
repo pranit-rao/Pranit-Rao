@@ -3,6 +3,7 @@
 Data Analyst | Business Analyst | MSc Data Science for Business
 
 📍 United Kingdom
+
 📊 SQL | Python | Power BI | Tableau | Excel
 📈 Customer Analytics | Forecasting | Machine Learning
 
@@ -19,5 +20,6 @@ finance, and sports analytics domains.
 - UEFA Champions League Database Design
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/pranit-rao/
+LinkedIn: https://www.linkedin.com/in/pranit-rao/\
+
 Email: pranit.rao18@gmail.com
